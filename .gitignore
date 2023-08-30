@@ -1,0 +1,16 @@
+
+# Editor directories and files
+.vscode/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# csv and db files
+private/
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/*
+**/*.py[cod]
